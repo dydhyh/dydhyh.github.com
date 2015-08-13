@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2015-08-13T08:21:34.691Z</updated>
+  <updated>2015-07-14T02:24:36.606Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,15 +15,53 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title></title>
+    <link href="http://yoursite.com/2015/08/13/htmls/help/"/>
+    <id>http://yoursite.com/2015/08/13/htmls/help/</id>
+    <published>2015-08-13T08:24:15.731Z</published>
+    <updated>2015-07-14T02:24:36.606Z</updated>
+    <content type="html"><![CDATA[<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+	<title>HUAS_ACM</title>
+</head>
+<body>
+<center>
+	<p>设置网络IP</p>
+	<p>打开网络中心</p>
+	<img src="images/1.png"><br>
+	<p>点击属性</p>
+	<img src="images/2.png"><br>
+	<p>找到TCP/IP协议</p>
+	<img src="images/3.png"><br>
+	<p>点进去， 点击自动获得IP地址， 确认</p>
+	<img src="images/4.png"><br>
+</center>
+</body>
+</html>]]></content>
+    <summary type="html">
+    <![CDATA[<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+	<title>HUAS_ACM</title>
+</head>
+<body>
+<center>
+	<p>]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
     <title><![CDATA[DragonYi]]></title>
     <link href="http://yoursite.com/2015/08/13/DragonYi/"/>
     <id>http://yoursite.com/2015/08/13/DragonYi/</id>
     <published>2015-08-13T06:18:09.000Z</published>
-    <updated>2015-08-13T08:21:34.691Z</updated>
-    <content type="html"><![CDATA[<p>Pp</p>
+    <updated>2015-08-13T08:24:18.401Z</updated>
+    <content type="html"><![CDATA[<p><a href="htmls/help.html" ,="" target="_blank">Hlep</a></p>
 ]]></content>
     <summary type="html">
-    <![CDATA[<p>Pp</p>
+    <![CDATA[<p><a href="htmls/help.html" ,="" target="_blank">Hlep</a></p>
 ]]>
     </summary>
     
